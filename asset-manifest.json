@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/digital_marketing/static/css/main.e6c13ad2.css",
-    "main.js": "/digital_marketing/static/js/main.01216874.js",
+    "main.js": "/digital_marketing/static/js/main.f0230993.js",
     "index.html": "/digital_marketing/index.html",
     "main.e6c13ad2.css.map": "/digital_marketing/static/css/main.e6c13ad2.css.map",
-    "main.01216874.js.map": "/digital_marketing/static/js/main.01216874.js.map"
+    "main.f0230993.js.map": "/digital_marketing/static/js/main.f0230993.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.01216874.js"
+    "static/js/main.f0230993.js"
   ]
 }
